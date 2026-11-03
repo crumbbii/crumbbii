@@ -47,5 +47,5 @@ $\text{\color{#B9CCDB} she}$ $\text{\color{#B9CCDB}⠀⠀𝄞。　 }$ $\text{\c
 </tr>
 <details>
   <summary>AWARDS</summary><h5 align="center">
- <a href="https://github.com/title-town"> pt-awards </a>
+ <a href="https://github.com/title-town"> title-town </a><a href="https://github.com/piddlesjet"> piddlesjet </a>
 </table>
